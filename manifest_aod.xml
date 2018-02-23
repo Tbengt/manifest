@@ -1,6 +1,6 @@
 <manifest>
   <remote  name="tbengt"
-           fetch="git@github.com:Tbengt/"/>
+           fetch="ssh://git@github.com/Tbengt/"/>
 
   <default revision="master"
            remote="tbengt"
