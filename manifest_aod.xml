@@ -1,12 +1,12 @@
 <manifest>
   <remote  name="tbengt"
            fetch="git@github.com:Tbengt/"/>
-  
+
   <default revision="master"
            remote="tbengt"
            sync-j="4" />
-  
+
   <project path="swat_pt_test" name="auto_test_repo" />
   <project path="pt" name="esw_repo_1" />
-  <project path="mars/cte" name="device_manager” />
+  <project path="mars/cte" name="device_manager" />
 </manifest>
